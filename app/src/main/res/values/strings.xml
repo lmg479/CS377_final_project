@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cocktail App</string>
+    <string name="cocktail_image">Cocktail Image</string>
+    <string name="open_drawer">Open Drawer</string>
+    <string name="close_drawer">Close Drawer</string>
+    <string name="refresh">Refresh</string>
+    <string name="refresh_cocktails">Refresh Cocktails</string>
+    <string name="search">Search</string>
+    <string name="search_hint">Search cocktails...</string>
+</resources>
